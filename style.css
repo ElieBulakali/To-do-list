@@ -1,6 +1,9 @@
 body {
   font-family: sans-serif;
-  background: #f0f0f0;
+  background-image: url('téléchargement.jpeg');
+  background-size: cover;     
+  background-position: center; 
+  background-repeat: no-repeat;
   padding: 50px;
   display: flex;
   justify-content: center;
