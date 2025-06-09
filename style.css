@@ -14,7 +14,10 @@ body.dark {
   background: #1e1e1e;
   color: #f5f5f5;
 }
-
+#toggle-dark {
+  text-align: end;
+  justify-items: left;
+}
 .container {
   background: white;
   padding: 30px;
